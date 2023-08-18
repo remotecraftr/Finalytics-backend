@@ -34,3 +34,4 @@
 📄 License
 Finalytics is licensed under the MIT License.
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
